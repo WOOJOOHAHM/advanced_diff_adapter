@@ -1,0 +1,1 @@
+# advanced_diff_adapter
